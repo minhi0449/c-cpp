@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/kimminimanimu/Desktop/workspace/c/1-2장/first/main"
+relocations:     []
+...
