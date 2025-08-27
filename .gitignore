@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# C/C++ build files
+*.o
+*.out
+*.exe
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
