@@ -1,3 +1,4 @@
+// 두 정수 합계 계산
 #include <stdio.h>
 
 int main(void)
